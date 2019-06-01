@@ -1,0 +1,14 @@
+{
+  "files": [
+    {"file": "/home/travis/build/rust-bitcoin/rust-lightning-invoice/src/ser.rs", "percent_covered": "90.53", "covered_lines": "172", "total_lines": "190"},
+    {"file": "/home/travis/build/rust-bitcoin/rust-lightning-invoice/src/lib.rs", "percent_covered": "94.96", "covered_lines": "565", "total_lines": "595"},
+    {"file": "/home/travis/build/rust-bitcoin/rust-lightning-invoice/src/de.rs", "percent_covered": "89.16", "covered_lines": "362", "total_lines": "406"}
+  ],
+  "percent_covered": "92.28",
+  "covered_lines": 1099,
+  "total_lines": 1191,
+  "percent_low": 25,
+  "percent_high": 75,
+  "command": "",
+  "date": "2019-06-01 07:50:29"
+}
